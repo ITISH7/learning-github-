@@ -1,1 +1,3 @@
 this is a file that is in main branch 
+
+this is a new navbar that i need to solve
